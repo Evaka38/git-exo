@@ -13,8 +13,15 @@ span{
 }
 .ok{
     margin: 40px;
+    text-align: center;
 }
 .ok img{
     border-radius: 10%;
     margin-top: 60px;
+}
+i{
+    border-radius: 50%;
+    background-color: wheat;
+    padding: 10px;
+    
 }
